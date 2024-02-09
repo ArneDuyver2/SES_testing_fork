@@ -1,1 +1,1 @@
-Dit is master en conflict 1.
+Dit is local en conflict 1.
