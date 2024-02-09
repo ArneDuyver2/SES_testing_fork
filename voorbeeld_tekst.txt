@@ -1,9 +1,1 @@
-Some txt
-
-Lokaal hier wat tekst toegevoegd.
-
-Dit is local.
-
-Dit heb ik remote toegevoegd
-
-Blah
+Return to sender
