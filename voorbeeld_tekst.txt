@@ -1,1 +1,4 @@
 Dit is local en conflict 1.
+=======
+Dit is remote en conflict 1.
+>>>>>>> refs/remotes/origin/main
